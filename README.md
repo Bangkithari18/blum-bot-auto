@@ -73,7 +73,7 @@ query_id=user=%7ajgshagsfirst_namfdfdss%%2last_name%22%3A%aknah%22username%22%3A
 
 ### Multiple Account
 
-1. Edit your `param.json`
+1. Edit `param.json`
 
 ```
 [
