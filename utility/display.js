@@ -20,7 +20,7 @@ function displayScreen() {
   );
   console.log();
   console.log(
-    `===    Created By : Mas Beng                                 ===`.yellow
+    `===    Created By : CaneToad                                 ===`.yellow
   );
   console.log(
     "================================================================".cyan
